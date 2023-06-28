@@ -18,7 +18,8 @@
 - 🔭 I’m currently working as a freelancer.
 
  ## Contact me
-- 📫 How to reach me: kendson or .cid.e78430dfd45cbb72
+- 📫 How to reach me: skype ID:	live:.cid.e78430dfd45cbb72 </br>
+                        telegram:	https://t.me/kendson
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -79,9 +80,9 @@
 </h1>
 
 <p align='center'>
-  <a href="mailto:lesco.kendy@gmail.com" target="_blank">
+<!--   <a href="mailto:along.hexo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  </a> -->
 <!--   <a href="https://discordapp.com/users/AlexHong#3356">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a> -->
