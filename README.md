@@ -11,9 +11,9 @@
 
 ## About me
 
-- 💬 Ask me about MERN Stack, Angular, PHP, Javascript, Laravel, Wordpress, Tainwind CSS, Sass/Scss.(I have     
-      experience in these fields but I am always looking to lerning more.)
-- 🌱 I’m currently learning React-native
+- 💬 Ask me about MERN Stack, Angular, PHP, MySQL, Python, Javascript, Laravel, Wordpress, Tainwind CSS, Sass/Scss.(I have     
+      experience in these fields but I am always looking to learning more.)
+- 🌱 I’m currently learning React-native and Machine Learning.
 - 💡 I strongly believe that coding has the power to solve problems and help people change the world for the better.
 - 🔭 I’m currently working as a freelancer.
 
