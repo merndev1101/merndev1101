@@ -1,4 +1,4 @@
-<!-- Thanks to https://github.com/AlexHong/github-profile-readme-generator -->
+<!-- Thanks to https://github.com/MERNSTACKDEV1101/github-profile-readme-generator -->
 
 <header>
   <h1 align="center">Hi there! 👋</h1>
@@ -67,12 +67,12 @@
   </div>
 
 <!--Graph-->
-![ALex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlexHong1101&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![ALex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MERNSTACKDEV1101&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <!--Skill And More Information--> 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexHong1101&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHong1101&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MERNSTACKDEV110&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MERNSTACKDEV1101&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
 </div>
 <h1 font-weight="bold">
   📮 How to reach me
@@ -83,7 +83,7 @@
 <!--   <a href="mailto:along.hexo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a> -->
-<!--   <a href="https://discordapp.com/users/AlexHong#3356">
+<!--   <a href="https://discordapp.com/users/MERNSTACKDEV1101#3356">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a> -->
   <a href="https://join.skype.com/invite/live:.cid.e78430dfd45cbb72" target="_blank">
