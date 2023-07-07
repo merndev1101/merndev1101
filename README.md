@@ -89,7 +89,7 @@
   <a href="https://join.skype.com/invite/live:.cid.e78430dfd45cbb72" target="_blank">
     <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
   </a>
-  <a href="https://t.me/kendson" target="_blank">
+  <a href="https://t.me/MERNDEV1101" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
