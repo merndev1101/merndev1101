@@ -88,9 +88,6 @@
 <!--   <a href="https://discordapp.com/users/merndev1101#3356">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a> -->
-  <a href="https://join.skype.com/invite/live:.cid.e78430dfd45cbb72" target="_blank">
-    <img src="https://img.shields.io/badge/Skype-0078d4?style=for-the-badge&logo=skype&logoColor=white" alt="Skype">
-  </a>
   <a href="https://t.me/onedragon1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0078d4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
