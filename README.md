@@ -4,7 +4,7 @@
   <h1 align="center">Hi there! 👋</h1>
 </header>
 <div style="margin: 20px;"  align="center"><a href="https://app.daily.dev/merndev1101"><img src="https://api.daily.dev/devcards/6950724b48f740938095b5a9b032ad11.png?r=e78" width="400" alt="MERN DEV's Dev Card"/></div>
-✨"Welcome to my GitHub repository! As a full stack developer, I'm excited to share my latest project with you. In this repository, you'll find a comprehensive collection of code and documentation that showcases my skills and expertise. Feel free to explore the code, ask questions, and provide feedback. Let's build something great together!"✨
+✨"Welcome to my GitHub repository! As a senior front-end web developer, I'm excited to share my latest project with you. In this repository, you'll find a comprehensive collection of code and documentation that showcases my skills and expertise. Feel free to explore the code, ask questions, and provide feedback. Let's build something great together!"✨
 🤔 So what are you waiting for? Let's get coding!"
 </div>
 
