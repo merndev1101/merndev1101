@@ -19,9 +19,7 @@
 - 🔭 I’m currently working as a freelancer.
 
  ## Contact me
-- 📫 How to reach me: skype ID:	live:.cid.e78430dfd45cbb72 </br>
-                        telegram:	https://t.me/onedragon1
- 
+- 📫 How to reach me: discord ID:	1127182680686071910 </br>
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -69,7 +67,7 @@
   </div>
 
 <!--Graph-->
-![ALex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=merndev1101&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![menrdev1101's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=merndev1101&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <!--Skill And More Information--> 
 <div align="center">  
